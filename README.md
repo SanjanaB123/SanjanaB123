@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Generative AI for Q/A for the Indian Penal Code.
+- 🔭 I’m currently working on Generative AI for Q/A on the Indian Penal Code.
 - 🌱 I’m currently learning Statistics, Data Science.
 - 👯 I’m looking to collaborate on any ML, Django projects.
 - 📫 How to reach me: sanjanabrahmbhatt230@gmail.com
