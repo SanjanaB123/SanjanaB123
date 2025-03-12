@@ -7,7 +7,7 @@ I'm passionate about solving real-world problems using **Data Science, Machine L
 ---
 
 ### 🔥 What I'm Currently Working On  
-- 🚀 **Building a Generative AI-based Q&A System** for the Indian Penal Code using **RAG (Retrieval-Augmented Generation)** and **Mistral AI 7B**.  
+- 🚀 **Building a Generative AI-based Q&A System** for the ArXiv using **RAG (Retrieval-Augmented Generation)**.  
 - 📊 **Stock Market Analysis with Kafka**: Implementing real-time streaming and query optimization.  
 - 🏆 Exploring **Deep Learning** models for audio classification (BirdCLEF Competition).  
 
@@ -28,9 +28,8 @@ I'm passionate about solving real-world problems using **Data Science, Machine L
 ---
 
 ### 📫 How to Reach Me  
-📩 **Email**: [Your Email]  
-💼 **LinkedIn**: [Your LinkedIn Profile]  
-🔗 **Portfolio**: [Your Portfolio Link]  
+📩 **Email**: brahmbhatt.sa@northeastern.edu
+💼 **LinkedIn**: https://www.linkedin.com/in/sanjana-brahmbhatt-aaa419201/
 📜 **Resume**: [Your Resume Link]  
 
 ---
@@ -48,11 +47,6 @@ I'm passionate about solving real-world problems using **Data Science, Machine L
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
 </p>
-
----
-
-### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
 
