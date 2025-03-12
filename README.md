@@ -29,9 +29,7 @@ I'm passionate about solving real-world problems using **Data Science, Machine L
 
 ### 📫 How to Reach Me  
 📩 **Email**: brahmbhatt.sa@northeastern.edu
-💼 **LinkedIn**: https://www.linkedin.com/in/sanjana-brahmbhatt-aaa419201/
-📜 **Resume**: [Your Resume Link]  
-
+ 
 ---
 
 ### 🚀 Languages & Tools  
