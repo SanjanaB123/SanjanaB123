@@ -1,11 +1,59 @@
-### Hi there 👋
+## Hi there! 👋 I'm Sanjana
 
-- My resume : https://drive.google.com/file/d/1JNJX2-0R624MStIcs_JLT76DNnUzlMwB/view?usp=drive_link
-- 🔭 I’m currently working on Generative AI for Q/A on the Indian Penal Code.
-- 🌱 I’m currently learning Statistics, Data Science.
-- 👯 I’m looking to collaborate on any Machine Learning, Django projects.
-- 📫 How to reach me: sanjanab0804@gmail.com
+🔹 **Data Science Enthusiast | Machine Learning Practitioner | Backend Developer**  
 
+I'm passionate about solving real-world problems using **Data Science, Machine Learning, and NLP**. I thrive on learning new technologies and collaborating on innovative projects that create an impact.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
+
+### 🔥 What I'm Currently Working On  
+- 🚀 **Building a Generative AI-based Q&A System** for the Indian Penal Code using **RAG (Retrieval-Augmented Generation)** and **Mistral AI 7B**.  
+- 📊 **Stock Market Analysis with Kafka**: Implementing real-time streaming and query optimization.  
+- 🏆 Exploring **Deep Learning** models for audio classification (BirdCLEF Competition).  
+
+---
+
+### 🌱 What I'm Learning  
+- **Advanced Machine Learning**: Model optimization, reinforcement learning, and generative models.  
+- **Cloud & Big Data**: AWS (S3, Athena, Glue, EC2), Apache Kafka.  
+- **MLOps & Model Deployment**: Docker, Prefect, MLflow.  
+
+---
+
+### 💡 Looking to Collaborate On  
+- **Machine Learning & NLP Projects**  
+- **MLOps & AI Model Deployment**  
+- **Backend Development with FastAPI & Django**  
+
+---
+
+### 📫 How to Reach Me  
+📩 **Email**: [Your Email]  
+💼 **LinkedIn**: [Your LinkedIn Profile]  
+🔗 **Portfolio**: [Your Portfolio Link]  
+📜 **Resume**: [Your Resume Link]  
+
+---
+
+### 🚀 Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
+</p>
+
+---
+
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+Let's connect and build something amazing together! 🚀
