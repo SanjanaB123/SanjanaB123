@@ -28,7 +28,6 @@ MS in Data Science at Northeastern (GPA: 3.81) · Graduating Dec 2026 · Boston,
 Contributor to **[traceloop/openllmetry](https://github.com/traceloop/openllmetry)** (LLM observability SDK) and **[abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)**:
 
 - 🟢 [Merged] Fixed model metadata parsing in llama-cpp-python → [PR #2217](https://github.com/abetlen/llama-cpp-python/pull/2217)
-- ✅ [Approved, pending merge] Fix `ToolNode` object handling in `create_react_agent` instrumentation — contributor tested and approved → [PR #3846](https://github.com/traceloop/openllmetry/pull/3846)
 - ✅ [Approved, pending merge Fixed semconv-ai version bump for `GenAICustomOperationName` in openllmetry → [PR #3826](https://github.com/traceloop/openllmetry/pull/3826)
 
 ---
