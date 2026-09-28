@@ -1,55 +1,41 @@
 # Hey, I'm Sanjana 👋
 
-ML engineer focused on building production-grade systems — multi-agent pipelines, LLM-powered apps, and MLOps infrastructure that actually ships.
+AI/ML engineer focused on LLM inference, agentic systems, and MLOps infrastructure that ships.
 
-MS in Data Science at Northeastern (GPA: 3.81) · Graduating Dec 2026 · Boston, MA
+MS Data Science @ Northeastern · Graduating Dec 2026 · Boston, MA
 
 ---
 
-## What I've Shipped
+## Recent focus: LLM inference internals
 
-- **Multi-Agent AutoML** — LangGraph system with 4 specialized subgraphs (classification, regression, clustering, feature engineering), supervisor + planner + memory agents, MCP-exposed tooling. Reduced project turnaround from 1 week to 3 hours. Used by real clients.
-- **RAG Pipeline on GCP** — Gemini 1.0 Pro + Pinecone hybrid retrieval, 71% → 86% answer relevance (RAGAS), deployed on Cloud Run at 500+ daily queries.
-- **MLOps Demand Forecasting** — XGBoost + Prophet with Optuna tuning, Airflow orchestration, DVC + GCS versioning, automatic rollback on regression. Full GCP deployment with MCP chatbot endpoint. Demoed at Google Cambridge.
-- **Knowledge Graph Builder** — LoRA fine-tuned LLaMA, GGUF + Llama.cpp local inference, Neo4j graph querying.
+- **vLLM benchmarking on Apple Silicon** — Measured continuous batching, prefix caching (5.3x faster TTFT), and the compute-vs-memory bottleneck on an M3, with a controlled A/B and log-level evidence. → [repo](https://github.com/SanjanaB123/vllm-metal-benchmarks)
+- **[Merged] vLLM (vllm-metal)** — Gemma 4 bf16 split-KV decode parity test coverage, head size 512 → [PR #855](https://github.com/vllm-project/vllm-metal/pull/855)
+- **[Merged] llama-cpp-python** — Enabled unified KV cache to preserve per-sequence context in batch embeddings → [PR #2217](https://github.com/abetlen/llama-cpp-python/pull/2217)
+- **[Merged] openllmetry** — Fixed `GenAICustomOperationName` semconv version bump → [PR #3826](https://github.com/traceloop/openllmetry/pull/3826)
+
+---
+
+## Selected projects
+
+- **Multi-Agent AutoML** — LangGraph system (classification, regression, clustering, feature-engineering subgraphs) with supervisor/planner/memory agents and MCP-exposed tooling. Cut project turnaround from ~1 week to ~3 hours; used by real clients.
+- **RAG Pipeline on GCP** — Gemini + Pinecone hybrid retrieval, 71% → 86% answer relevance (RAGAS), deployed on Cloud Run at 500+ daily queries.
+- **MLOps Demand Forecasting** — XGBoost + Prophet, Optuna tuning, Airflow orchestration, DVC/GCS versioning, auto-rollback on regression. Demoed at Google Cambridge.
 
 ---
 
 ## Experience
 
-- **Machine Learning & GenAI Intern** — Seagate Technology 
-- **ML Intern** — Transformly AI, Boston *(LangGraph multi-agent AutoML, MCP)*
-- **ML Intern** — Fuzzy Cloud Inc. *(RAG on GCP, Vertex AI, Gemini)*
-
----
-
-## Open Source
-
-Contributor to **[traceloop/openllmetry](https://github.com/traceloop/openllmetry)** (LLM observability SDK) and **[abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)**:
-
-- 🟢 [Merged] Fixed model metadata parsing in llama-cpp-python → [PR #2217](https://github.com/abetlen/llama-cpp-python/pull/2217)
-- ✅ [Approved, pending merge Fixed semconv-ai version bump for `GenAICustomOperationName` in openllmetry → [PR #3826](https://github.com/traceloop/openllmetry/pull/3826)
+- **ML & GenAI Intern** — Seagate Technology *(agentic pipelines, RAG, backend infra)*
+- **ML Intern** — Transformly AI *(LangGraph multi-agent AutoML, MCP)*
+- **ML Intern** — Fuzzy Cloud *(RAG on GCP, Vertex AI, Gemini)*
 
 ---
 
 ## Stack
 
-**LLM & Agents:** LangGraph, LangChain, LlamaIndex, MCP, Pinecone, Vertex AI, Hugging Face  
-**ML & MLOps:** PyTorch, XGBoost, Scikit-learn, MLflow, Optuna, Airflow, DVC  
-**Deployment:** FastAPI, Docker, Cloud Run, GCS, Cloud SQL, GitHub Actions  
+**LLM & inference:** vLLM, llama.cpp, LangGraph, LangChain, MCP, Pinecone, Hugging Face
+**ML & MLOps:** PyTorch, XGBoost, MLflow, Optuna, Airflow, DVC
+**Deployment:** FastAPI, Docker, Cloud Run, GCS, GitHub Actions
 **Languages:** Python, SQL, C++, Go
 
----
-
-## Wins
-
-- 🏆 **Best Use of Public API** — MLH Hackathon (1,614 participants): fine-tuned Xception for real-time pothole classification
-- 🏆 **Best All-Girls Team** — MLH Hackathon (501 participants): pose classifier using TF CNN across 7 pose classes
-
----
-
-## Currently Exploring
-
-Reinforcement learning, model optimization, and agentic memory architectures.
-
-📫 brahmbhatt.sa@northeastern.edu
+📫 sanjanab0804@gmail.com
